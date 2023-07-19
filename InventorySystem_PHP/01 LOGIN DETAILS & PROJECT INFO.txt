@@ -1,0 +1,15 @@
+**Database Name: inventory_system**
+
+
+
+
+**Admin Login Details**
+
+Username: Naeem
+Password: Naeem1125
+
+
+**User(Employee) Login Details**
+
+Username: Alamin
+Password: Alamin 
