@@ -2,17 +2,14 @@
 
 
 
+
 **Admin Login Details**
 
-Username: admin
-Password: admin
+Username: Naeem
+Password: Naeem1125
 
-**Special User Login Details**
-
-Username: special
-Password: special
 
 **User(Employee) Login Details**
 
-Username: user
-Password: user 
+Username: Alamin
+Password: Alamin 
